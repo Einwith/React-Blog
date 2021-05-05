@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "tz6",
+      "body": "dfd",
+      "author": "tz",
+      "id": 6
+    },
+    {
+      "title": "tz7",
+      "body": "jgdslkjflkds",
+      "author": "tz2",
+      "id": 7
+    },
+    {
+      "title": "tz",
+      "body": "mfajf",
+      "author": "tz",
+      "id": 9
+    },
+    {
+      "title": "tz3",
+      "body": "hiya",
+      "author": "tz",
+      "id": 10
+    }
+  ]
+}

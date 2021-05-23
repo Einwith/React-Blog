@@ -1,4 +1,4 @@
-#A Blog created with React and tested with JSON Server
+# A Blog created with React and tested with JSON Server
 
 
 
@@ -7,14 +7,5 @@
 
 
 
-
-
-
-
-
-
-
-##Contributing
+## Contributing
 Pull requests are welcome.
-
-

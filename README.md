@@ -1,4 +1,4 @@
-# A Blog created with React and tested with JSON Server
+A Blog for personal use created with React and tested with JSON Server
 
 
 
@@ -7,5 +7,4 @@
 
 
 
-## Contributing
-Pull requests are welcome.
+

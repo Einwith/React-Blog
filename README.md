@@ -1,4 +1,17 @@
-A Blog for personal use created with React and tested with JSON Server
+### A Blog for personal use.
+
+#
+#
+
+
+
+
+
+
+### Tools
+Created with React 
+
+Tested with JSON Server
 
 
 
